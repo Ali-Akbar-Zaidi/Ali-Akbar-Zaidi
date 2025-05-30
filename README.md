@@ -13,9 +13,8 @@
 
 - ⚡ Fun fact **I am an virtuoso public speaker.**
 
- ## 🏆 GitHub Trophies
+ ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ali-Akbar-Zaidi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 
 <h3 align="left">👨‍💻 Connect with me:</h3>
 <p align="left">
@@ -41,6 +40,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ali-Akbar-Zaidi&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Ali-Akbar-Zaidi&icon=6&color=8)](https://visitcount.itsvg.in)
