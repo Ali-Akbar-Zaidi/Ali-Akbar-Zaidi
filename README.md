@@ -84,12 +84,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
----
-
-## 🔝 Top Contributed Repositories
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Ali-Akbar-Zaidi&limit=5&theme=blue_navy&combine_all_yearly_contributions=true" />
-</p>
 
 ---
 
