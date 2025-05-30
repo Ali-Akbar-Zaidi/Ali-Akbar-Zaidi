@@ -63,7 +63,7 @@
 <div align="center">
   
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ali-Akbar-Zaidi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Ali-Akbar-Zaidi&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
 ### 📈 GitHub Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ali-Akbar-Zaidi&show_icons=true&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true"/>
