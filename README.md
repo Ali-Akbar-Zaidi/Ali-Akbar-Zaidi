@@ -23,7 +23,7 @@
 <a href="https://instagram.com/ali.akbar.zaidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali.akbar.zaidi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@hadi_ali_akbar_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hadi_ali_akbar_1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/galacter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="galacter" height="30" width="40" /></a>
-<a href="https://discord.gg/1071531471447261295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1071531471447261295" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/ali.akbar.zaidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1071531471447261295" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🧠 Languages and Tools:</h3>
