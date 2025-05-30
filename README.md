@@ -11,12 +11,12 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🌱 I’m currently diving deep into **Web development**  
+- 🌱 I'm currently diving deep into **Web development**  
 - 👨‍💻 Check out all my projects on [GitHub](https://github.com/Ali-Akbar-Zaidi)  
 - 💬 Ask me about: **React, Node.js, Firebase, SQL Server, C++, Java, Python**  
 - 📫 Reach me at: **hadi.ali.akbar.zaidi@gmail.com**  
 - 📄 View my resume: [Online CV](https://www.overleaf.com/read/ptfqcphnkjfs#8aa57e)  
-- ⚡ Fun fact: **I’m a virtuoso public speaker who thrives on impactful communication!**
+- ⚡ Fun fact: **I'm a virtuoso public speaker who thrives on impactful communication!**
 
 ---
 
@@ -71,6 +71,9 @@
 
 ### 🔥 GitHub Streak
 ![](https://nirzak-streak-stats.vercel.app/?user=Ali-Akbar-Zaidi&theme=midnight-purple&hide_border=false)
+
+### 📅 GitHub Commits Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=Ali-Akbar-Zaidi&theme=tokyo-night&hide_border=false)
 
 ### 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=Ali-Akbar-Zaidi&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
