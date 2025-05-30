@@ -1,14 +1,16 @@
 <div align="center">
- 
-<h1 align="center">Hi 👋, I'm Syed Hadi Ali Akbar Zaidi</h1>
-<h3 align="center">🚀A passionate Software Engineer from 📍Lahore, Pakistan</h3>
 
+<!-- Modern gradient header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color=0066FF&height=200&section=header&text=Syed%20Hadi%20Ali%20Akbar%20Zaidi&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Love+to+code+and+solve+problems;Passionate+about+coding)](https://git.io/typing-svg)
+<!-- Premium typing animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=1500&pause=100&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hello+There,+I+Am+A+Software+Engineer;Striving+To+Revolutionize+The+World;One+Project+At+A+Time" alt="Typing Animation"/>
+
+<!-- Clean separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
----
 
 ## 🧑‍💻 About Me
 - 🌱 I'm currently diving deep into **Web development**  
@@ -98,4 +100,6 @@
 
 **Thank you for visiting my profile! ⭐ Star some repositories if you find them interesting!**
 
-</div>
+
+<!-- blue gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color=0066FF&height=120&section=footer"/>
