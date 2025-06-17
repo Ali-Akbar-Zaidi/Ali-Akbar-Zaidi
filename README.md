@@ -17,7 +17,7 @@
 - 👨‍💻 Check out all my projects on [GitHub](https://github.com/Ali-Akbar-Zaidi)  
 - 💬 Ask me about: **React, Node.js, Firebase, SQL Server, C++, Java, Python**  
 - 📫 Reach me at: **hadi.ali.akbar.zaidi@gmail.com**  
-- 📄 View my portfolio: [Online CV](https://ali-zaidi.netlify.app/)  
+- 📄 View my portfolio: [Portfolio Website](https://ali-zaidi.netlify.app/)  
 - ⚡ Fun fact: **I'm a virtuoso public speaker who thrives on impactful communication!**
 
 ---
